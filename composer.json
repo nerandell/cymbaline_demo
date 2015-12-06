@@ -1,0 +1,14 @@
+{
+    "name": "cymbaline/cymbaline_demo",
+    "description": "Demo for using cymbaline",
+    "authors": [
+        {
+            "name": "Ankit Chandawala",
+            "email": "ankitchandawala@gmail.com"
+        }
+    ],
+    "require": {
+        "cymbaline/cymbaline": "@dev"
+    },
+    "minimum-stability": "dev"
+}
