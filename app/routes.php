@@ -4,6 +4,9 @@
  * This is where you add your own custom routes
  */
 
-Route::addRoute('get', '/test', function($request) {
-    echo "Test route";
+use Cymbaline\Route;
+
+Route::addRoute('get', '/hello/[:id]', function($request) {
+    $controller = new UserController();
+    $controller->test_custom_route($request->id);
 });
