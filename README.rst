@@ -1,7 +1,7 @@
 Cymbaline Demo
 ==============
 
-A simple web app demonstrating the use of cymbaline_, a web framework for python.
+A simple web app demonstrating the use of cymbaline_, a web framework for PHP.
 
 .. _cymbaline: https://github.com/nerandell/cymbaline
 
